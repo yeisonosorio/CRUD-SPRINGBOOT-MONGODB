@@ -1,0 +1,25 @@
+[{
+  "_id": 1,
+  "nombre": "el nuevo lidfdfbro",
+  "apellido": "datos de prueba",
+  "cedula": "105565",
+  "telefono": "313541515",
+  "email": "yei@gmail.com",
+  "_class": "com.proyectopersona.Mongo.documentos.Persona"
+},{
+  "_id": 2,
+  "nombre": "el nuevo ",
+  "apellido": "datos de prueba",
+  "cedula": "105565",
+  "telefono": "313541515",
+  "email": "yei@gmail.com",
+  "_class": "com.proyectopersona.Mongo.documentos.Persona"
+},{
+  "_id": 3,
+  "nombre": "esta es una actualizacion ",
+  "apellido": "datos de prueba",
+  "cedula": "105565",
+  "telefono": "313541515",
+  "email": "yei@gmail.com",
+  "_class": "com.proyectopersona.Mongo.documentos.Persona"
+}]
